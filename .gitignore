@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# local stuff
+.idea
+venv
+# test data / logs
+*data.txt
+test_*.txt
+test_range_*.txt
+test_knn_*.txt
+test_log*.txt
+# pickled data
+*.pkl
